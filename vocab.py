@@ -12,6 +12,7 @@ Options:
     --size=<int>               vocab size [default: 50000]
     --freq-cutoff=<int>        frequency cutoff [default: 2]
 """
+## changes made to test
 
 from collections import Counter
 from docopt import docopt
